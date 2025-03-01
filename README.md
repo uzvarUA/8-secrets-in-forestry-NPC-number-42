@@ -1,1 +1,2 @@
-# 8-secrets-in-forestry-NPC-number-42
+![логотип](logo_my.png)
+<br><br>
